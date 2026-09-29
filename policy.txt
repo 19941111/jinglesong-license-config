@@ -1,0 +1,4 @@
+JLS_POLICY_V1
+licenseId=primary
+enabled=true
+expiresOn=2026-10-02
